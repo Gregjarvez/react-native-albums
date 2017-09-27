@@ -4,11 +4,14 @@
 	"private": true,
 	"scripts": {
 		"start": "node node_modules/react-native/local-cli/cli.js start",
-		"test": "jest"
+		"test": "jest",
+		"sim": "react-native run-ios"
 	},
 	"dependencies": {
+		"prop-types": "^15.6.0",
 		"react": "16.0.0-alpha.12",
-		"react-native": "0.48.4"
+		"react-native": "0.48.4",
+		"styled-components": "^2.1.2"
 	},
 	"devDependencies": {
 		"babel-eslint": "^8.0.0",
