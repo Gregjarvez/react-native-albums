@@ -10,8 +10,7 @@
 	"dependencies": {
 		"prop-types": "^15.6.0",
 		"react": "16.0.0-alpha.12",
-		"react-native": "0.48.4",
-		"styled-components": "^2.1.2"
+		"react-native": "0.48.4"
 	},
 	"devDependencies": {
 		"babel-eslint": "^8.0.0",
